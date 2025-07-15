@@ -67,7 +67,7 @@ You can easily switch between testing a `constant` and `balanced` function by ch
 
 ## 📊 Example Output
 
-Running the script for a **4-qubit balanced function** generates the following quantum circuit and measurement results:
+Running the script for a **5-qubit balanced function** generates the following quantum circuit and measurement results:
 
 **Quantum Circuit:**
 
@@ -77,4 +77,4 @@ Running the script for a **4-qubit balanced function** generates the following q
 
 ![Measurement Histogram](images/djhistogram.png)
 
-As predicted by the algorithm, the measurement result for a balanced function is never the zero-string (`0000`), confirming its type with high probability.
+As predicted by the algorithm, the measurement result for a balanced function is never the zero-string (`00000`), confirming its type with high probability.
