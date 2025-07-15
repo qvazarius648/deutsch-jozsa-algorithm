@@ -47,8 +47,8 @@ The core of the algorithm is the construction of a quantum oracle that implement
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/qvazarius648/deutsch-jozsa-algorithm.git](https://github.com/qvazarius648/deutsch-jozsa-algorithm.git)
+    cd deutsch-jozsa-algorithm
     ```
 
 2.  Install the required Python packages:
