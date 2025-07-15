@@ -71,10 +71,10 @@ Running the script for a **4-qubit balanced function** generates the following q
 
 **Quantum Circuit:**
 
-![Circuit Diagram](path/to/your/circuit_diagram.png)
+![Circuit Diagram](images/djcircuit.png)
 
 **Measurement Results:**
 
-![Measurement Histogram](path/to/your/histogram.png)
+![Measurement Histogram](images/djhistogram.png)
 
 As predicted by the algorithm, the measurement result for a balanced function is never the zero-string (`0000`), confirming its type with high probability.
